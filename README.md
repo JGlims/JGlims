@@ -14,12 +14,3 @@ Currently deep into systems programming, cloud infrastructure, and real-time com
 </div>
 
 ---
-
-### 🔧 What I Work With
-
-```text
-Languages    Python · C++ · C · Java · TypeScript · JavaScript
-Frontend     HTML · CSS · JavaScript · TypeScript
-Backend      SQL · PostgreSQL · REST APIs · OpenCV
-DevOps       Git · Linux · Docker · Oracle Cloud · Nginx
-Practices    Clean Code · TDD · ESLint · Modular Architecture
