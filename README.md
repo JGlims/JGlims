@@ -4,7 +4,7 @@
 
 **Computer Engineering @ UnB · Software Engineer · Brasília, Brazil**
 
-I build things that work — reliably, at scale, and without waking anyone up at 3am.
+I build things that work — reliably and at scale.
 Currently deep into systems programming, cloud infrastructure, and real-time computer vision.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-JGlims.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://JGlims.github.io)
